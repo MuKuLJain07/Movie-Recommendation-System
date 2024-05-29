@@ -1,4 +1,12 @@
+venv/Scripts/Activate.ps1
+
 Types of Recommendation Systems
- - Content Based
- - Collaborative Filtering
- - Hybrid Model
+ - Content Based                           : based on the content beign watched currently
+ - Collaborative Filtering                 : based on the similarity factor between different user
+ - Hybrid Model                            : mixture of both
+
+
+
+Project Flow :
+ 
+    Data  -->  Preprocessing --> Model --> Frontend --> Deploy
