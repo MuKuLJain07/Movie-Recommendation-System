@@ -1,0 +1,4 @@
+Types of Recommendation Systems
+ - Content Based
+ - Collaborative Filtering
+ - Hybrid Model
