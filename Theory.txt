@@ -7,6 +7,10 @@ Types of Recommendation Systems
 
 
 
+Vectorization:
+Vectorization is needed to calculate the similarity score between two two 'tags' which we have created. In this project we are using technique 'BagOfWords' to perform text vectorization in our project
+
+
 Project Flow :
  
-    Data  -->  Preprocessing --> Model --> Frontend --> Deploy
+    Data  -->  Preprocessing --> Vectorization --> Model --> Frontend --> Deploy
